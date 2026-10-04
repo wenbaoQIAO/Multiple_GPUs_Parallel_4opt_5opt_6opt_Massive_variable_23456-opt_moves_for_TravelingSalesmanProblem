@@ -2,7 +2,7 @@
 Multi-GPU parallel complete k-opt local search for the Travelling Salesman Problem (TSP)
 
 This repository hosts the open-source implementation accompanying the paper:
-> Breaking TSP local search barriers: scalable multi-GPU parallelisation of 4-opt, 5-opt, 6-opt and hybrid variable K-opt
+> **Breaking TSP local search barriers: scalable multi-GPU parallelisation of 4-opt, 5-opt, 6-opt and hybrid variable K-opt**
 
 ## Overview
 The Travelling Salesman Problem (TSP) is a canonical NP-hard combinatorial optimisation problem. The k-opt family (2-opt, 3-opt, 4-opt, 5-opt, 6-opt and variable λ-opt) forms the core local-search mechanism for tour improvement and is the fundamental building block of state-of-the-art LKH heuristic solvers.
