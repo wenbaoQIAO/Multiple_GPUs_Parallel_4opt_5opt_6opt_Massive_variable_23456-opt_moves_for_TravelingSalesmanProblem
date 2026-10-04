@@ -75,7 +75,7 @@ Algorithm mode, k-opt variant and GPU count are defined in `config.cfg`.
 functionModeChoice = 8  //iterative increasing k-optimal from 2-6
 
 ### Demo Run on `mu1979.tsp` (TSPLIB Benchmark)
-./MultiGPU-kopt-tsp mu1979.tsp output output config.cfg
+calculateur.exe mu1979.tsp output output config.cfg
 ```
 
 - Working directory: `MultiGPU_2_3_4_5_6_optTsp/test_worldTsp/dataNational`
