@@ -108,7 +108,7 @@ If you use this code in your research, please cite our publication:
 	publisher={Elsevier}
 }
 ```
-> Update the `journal` field after formal acceptance.
+> 
 
 ## License
 This project is released under the Attribution-NonCommercial 4.0 International(LICENSE) file available in this repository.
@@ -116,6 +116,6 @@ This project is released under the Attribution-NonCommercial 4.0 International(L
 ## Notes and Limitations
 - This implementation performs brute-force complete k-opt **without nearest-neighbour filtering**.
 - Only symmetric TSP instances from TSPLIB are supported.
-- The software is designed for single-node workstations with at most four GPUs.
+- The software is designed for single-node workstations with any quantity of GPUs.
 - The repository includes demo TSPLIB instances (e.g., `mu1979.tsp`) for validation and benchmarking.
 ```
